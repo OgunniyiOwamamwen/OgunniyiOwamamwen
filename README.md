@@ -3,4 +3,4 @@ process in which software machines, aircraft, architectural structures, a lover 
 believing that no limitation in what you can do just mastery the process and keep improving on it daily.
 
 
-- 👀 I’m interested in JavaScript and TypeScript, C# programmer, Database RDBMS, and python.
+- 👀 I've interest in JavaScript and TypeScript, C# programmer, Database RDBMS, and python.
